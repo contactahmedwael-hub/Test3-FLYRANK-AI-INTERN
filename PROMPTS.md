@@ -1,6 +1,6 @@
 # Prompts Brief During Development
 
-Chronological log of the work done with the AI assistant (Claude) while building this app.
+ Brief Log of the work done with the AI assistant (Claude) while building this app.
 
 ## 1. Project setup
 
