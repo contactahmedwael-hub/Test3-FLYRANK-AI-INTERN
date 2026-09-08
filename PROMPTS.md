@@ -1,4 +1,4 @@
-# Prompts Used During Development
+# Prompts Brief During Development
 
 Chronological log of the work done with the AI assistant (Claude) while building this app.
 
