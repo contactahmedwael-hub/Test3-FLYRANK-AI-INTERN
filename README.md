@@ -2,6 +2,8 @@
 
 A React app for searching movies and shows, saving personal favourites, and signing in with an account — built as a front-end engineering internship assignment using AI as a development assistant.
 
+**🔗 Live Demo:** [movie-explorer-self-pi.vercel.app/](https://movie-explorer-self-pi.vercel.app/)
+
 ## Tech Stack
 
 - **React + TypeScript + Vite**
