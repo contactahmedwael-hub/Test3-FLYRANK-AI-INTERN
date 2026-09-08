@@ -35,11 +35,11 @@ npm run dev
 
 **Firebase Realtime Database** — favourites stored per user under `/users/{uid}/favourites`
 
-![Realtime Database](screenshots/realtime-database.png)
+![Realtime Database](screenshots/Screenshot%202026-09-08%20133955.png)
 
 **Firebase Authentication** — registered users
 
-![Authentication](screenshots/authentication.png)
+![Authentication](screenshots/Screenshot%202026-09-08%20134010.png)
 
 ## Project Docs
 
